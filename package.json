@@ -1,0 +1,8 @@
+{
+  "name": "ic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:iamcalegari/ic.git",
+  "author": "iamcalegari <iamcalegari20@gmail.com>",
+  "license": "MIT"
+}
